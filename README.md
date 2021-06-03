@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Guillermo Bertolaccini from Argentina
+- 👋 Hi, I’m Guillermo Bertolaccini from Rosario (Argentina)
 - 👀 I’m interested in C# programming, ASP.NET Core, SQL, Smalltalk and more
 - 🌱 I’m currently learning C#, Blazor, WebAssembly, PowerShell
 - 💞️ I’m looking to collaborate on ... not for the moment
