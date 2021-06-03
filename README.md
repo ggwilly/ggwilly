@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guillermo Bertolaccini from Rosario (Argentina)
 - 👀 I’m interested in C# Programming, ASP.NET Core, SQL, Smalltalk and more
-- 🌱 I’m currently learning C#, ORM Dapper, Blazor, WebAssembly, and more
+- 🌱 I’m currently learning C#, ORM Dapper, Blazor, WebAssembly
 - 💞️ I’m looking to collaborate on ... not for the moment
 - 📫 How to reach me ... email: ggwilly@gmail.com | facebook.com/guillermo.bertolaccini
 
