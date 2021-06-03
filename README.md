@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guillermo Bertolaccini from Argentina
 - 👀 I’m interested in C# programming, ASP.NET Core, SQL, Smalltalk and more
-- 🌱 I’m currently learning C#, Blazor, WebAssembly, Powershell
+- 🌱 I’m currently learning C#, Blazor, WebAssembly, PowerShell
 - 💞️ I’m looking to collaborate on ... not for the moment
 - 📫 How to reach me ... email: ggwilly@gmail.com | facebook.com/guillermo.bertolaccini
 
