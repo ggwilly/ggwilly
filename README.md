@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guillermo Bertolaccini from Rosario - Argentina
 - 👀 I’m interested in C# Programming, ASP.NET Core, PowerShell, SQL, BI, Cognos and more
-- 🌱 I’m currently learning C#, Dapper ORM, Blazor, Rest WebApi, WebAssembly
+- 🌱 I’m currently learning C#, Dapper ORM, Blazor, Rest WebApi and DDD
 - 💞️ I’m looking to collaborate on ... not at this moment
 - 📫 How to reach me: ggwilly@gmail.com | [Facebook](https://www.facebook.com/guillermo.bertolaccini) | [Instagram](https://www.instagram.com/ggwilly.ok)
 
